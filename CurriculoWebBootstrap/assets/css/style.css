@@ -1,0 +1,15 @@
+    /*imagem*/
+
+.foto-gata{
+    border-radius :  130px 0px;
+    max-width: 100%; 
+    border: solid 1px rgb(212, 135, 222);
+    box-shadow: 10px 1px 28px rgba(0, 0, 0, 0.408);
+}
+
+    /*Efeitos mause e gradiente*/
+
+img:hover{
+
+box-shadow: 8px 1px 10px  rgba(126, 22, 126, 0.408);
+}
