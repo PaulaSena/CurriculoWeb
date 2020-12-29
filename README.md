@@ -12,4 +12,9 @@
   - JavaScript<br>
   - Bootstrap<br>
 
-EM CONSTRUÇÃO
+EM DESENVOLVIMENTO 
+
+- Inserir projetos do github e link
+- Inserir animaçoes 
+- inserir API de mapas 
+- Inserir API de WhatsAPP
