@@ -1,8 +1,10 @@
 
 # CurriculoWebBootstrap
-Veja como esta ficando meu projetinho no link  a baixo =D
-[https://paulasena.github.io/CurriculoWebBootstrap/]
 
+# Veja como esta ficando meu projetinho no link
+
+
+[https://paulasena.github.io/CurriculoWebBootstrap/]
 
 
 ## Neste projeto foi realizado o Desenvolvimento de um Currículo Web com Bootstrap animações e API de mapas e WhatsApp.
@@ -22,13 +24,9 @@ Projeto Original:
 Como esta ficando o meu =D
 
 ## EM DESENVOLVIMENTO 
-Primeira tela
 ![Primeira tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod1.PNG "Home")
-Segunda tela
 ![Segunda tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod2.PNG "Home")
-Terceira tela
 ![Terceira tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod3.PNG "Home")
-Quarta tela
 ![Quarta tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod4.PNG "Home")
 
 **Alem disso criei mais um cantinho para meus projetos do Github o campo Portfolio.
