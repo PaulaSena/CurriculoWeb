@@ -23,15 +23,15 @@ Como esta ficando o meu =D
 
 ## EM DESENVOLVIMENTO 
 Primeira tela
-![Primeira tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod1.PNG"Home")
+![Primeira tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod1.PNG "Home")
 Segunda tela
-![Segunda tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod2.PNG"Home")
+![Segunda tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod2.PNG "Home")
 Terceira tela
-![Terceira tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod3.PNG"Home")
+![Terceira tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod3.PNG "Home")
 Quarta tela
-![Quarta tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod4.PNG"Home")
+![Quarta tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod4.PNG "Home")
 
-***Alem disso criei mais um cantinho para meus projetos do Github o campo Portfolio.
+**Alem disso criei mais um cantinho para meus projetos do Github o campo Portfolio.
 
 
 # Proximas etapas 
