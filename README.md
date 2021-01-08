@@ -1,9 +1,7 @@
 
 # CurriculoWebBootstrap
 
-# Veja como esta ficando meu projetinho no link
-
-
+# Veja como esta ficando o projeto no link abaixo
 [https://paulasena.github.io/CurriculoWebBootstrap/]
 
 
