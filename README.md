@@ -1,8 +1,10 @@
 
-# CurriculoWebBootstrap
+# Projeto apresentação de Curriculo Web 
+
+Objetivo aprender a utilizar o Bootstrap
 
 # Veja como esta ficando o projeto no link abaixo
-[https://paulasena.github.io/CurriculoWebBootstrap/]
+# [https://paulasena.github.io/CurriculoWebBootstrap/]
 
 
 ## Neste projeto foi realizado o Desenvolvimento de um Currículo Web com Bootstrap animações e API de mapas e WhatsApp.
@@ -14,6 +16,12 @@ Para realização desse projeto foi utilizado:
   - JavaScript<br>
   - Bootstrap<br>
 
+Programas utilizados até o momento: 
+
+° Visual Studio Code
+° Framework Bootstrap
+° Git
+° Github
 
 Projeto Original:
 
@@ -23,9 +31,7 @@ Como esta ficando o meu =D
 
 ## EM DESENVOLVIMENTO 
 ![Primeira tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod1.PNG "Home")
-![Segunda tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod2.PNG "Home")
-![Terceira tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod3.PNG "Home")
-![Quarta tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/meumod4.PNG "Home")
+
 
 **Alem disso criei mais um cantinho para meus projetos do Github o campo Portfolio.
 
@@ -38,3 +44,7 @@ Inserir projetos do github e link --OK
 * Inserir animaçoes em Javascript
 * inserir API de mapas 
 * Inserir API de WhatsAPP
+
+
+
+.
