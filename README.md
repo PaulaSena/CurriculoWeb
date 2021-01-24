@@ -15,6 +15,7 @@ Para realização desse projeto foi utilizado:
   - Css3 <br>
   - JavaScript<br>
   - Bootstrap<br>
+  - Firebase<br>
 
 Programas utilizados até o momento: 
 
@@ -38,12 +39,14 @@ Como esta ficando o meu =D
 
 # Proximas etapas 
 
-Inserir projetos do github e link --OK
+✅Inserir projetos do github e link 
 
-** Corrigir tamanho das imagens no portfolio
-* Inserir animaçoes em Javascript
-* inserir API de mapas 
-* Inserir API de WhatsAPP
+✅ Inserir animaçoes em Javascript
+✅ inserir API de mapas 
+✅ Inserir API de WhatsAPP
+
+⬜ Corrigir tamanho das imagens no portfolio
+⬜ Postar no Firebase
 
 
 
