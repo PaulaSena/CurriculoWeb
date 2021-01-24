@@ -1,0 +1,9 @@
+API maps: https://www.google.com/maps/search/?api=1&query=
+
+Link:https://developers.google.com/maps/documentation/urls/get-started
+
+API whatsapp:"https://api.whatsapp.com/send?phone=5511944594987"
+
+
+icon
+https://emojipedia.org/check-mark-button/
