@@ -4,7 +4,7 @@
 Objetivo aprender a utilizar o Bootstrap
 
 ## Veja como esta ficando o projeto no link abaixo
-## [https://paulasena.github.io/CurriculoWebBootstrap/]
+## [https://paulasena.github.io/CurriculoWeb/]
 
 
 ## Neste projeto foi realizado o Desenvolvimento de um Currículo Web com Bootstrap animações e API de mapas e WhatsApp.
