@@ -24,10 +24,6 @@ Programas utilizados até o momento:
 ° Git
 ° Github
 
-Projeto Original:
-
-![Primeira tela](https://raw.githubusercontent.com/PaulaSena/CurriculoWebBootstrap/main/assets/Apresenta%C3%A7%C3%A3o%20do%20projeto/Apresenta%C3%A7%C3%A3o%20do%20Projeto%20Modelo%201.PNG "Home")
-
 Como esta ficando o meu =D
 
 ## EM DESENVOLVIMENTO 
